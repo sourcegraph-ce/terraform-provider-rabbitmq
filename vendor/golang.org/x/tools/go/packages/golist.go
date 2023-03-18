@@ -10,7 +10,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"go/types"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"os/exec"
 	"path"
