@@ -8,7 +8,7 @@ import (
 	"go/scanner"
 	"go/token"
 	"go/types"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 
 	"golang.org/x/tools/go/gcexportdata"

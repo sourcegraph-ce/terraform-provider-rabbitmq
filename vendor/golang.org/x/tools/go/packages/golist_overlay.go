@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"go/parser"
 	"go/token"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"path/filepath"
 	"sort"

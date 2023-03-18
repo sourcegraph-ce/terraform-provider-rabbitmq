@@ -58,7 +58,7 @@ import (
 	"go/parser"
 	"go/token"
 	"io/ioutil"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"os/exec"
 	"path/filepath"

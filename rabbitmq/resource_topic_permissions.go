@@ -2,7 +2,7 @@ package rabbitmq
 
 import (
 	"fmt"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"strconv"
 
 	rabbithole "github.com/michaelklishin/rabbit-hole/v2"
