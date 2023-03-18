@@ -21,7 +21,7 @@ import (
 	"go/token"
 	"go/types"
 	"io/ioutil"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"path"
 	"path/filepath"

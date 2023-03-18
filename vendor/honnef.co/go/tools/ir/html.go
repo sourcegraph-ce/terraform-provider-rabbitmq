@@ -9,7 +9,7 @@ import (
 	"go/types"
 	"html"
 	"io"
-	"log"
+	log "github.com/sourcegraph-ce/logrus"
 	"os"
 	"os/exec"
 	"path/filepath"
